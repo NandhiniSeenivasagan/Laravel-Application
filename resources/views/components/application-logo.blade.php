@@ -1,0 +1,1 @@
+<img src="{{ asset('logo/superbotics-logo-2015-500 (1).png') }}" width="100px">
